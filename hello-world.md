@@ -13,4 +13,4 @@ Loremipsum ja sitä rataa. Loremipsum ja sitä rataa. Loremipsum ja sitä rataa.
 Loremipsum ja sitä rataa. 
 Loremipsum ja sitä rataa. Loremipsum ja sitä rataa. Loremipsum ja sitä rataa. 
 
-    print("Hello world, with a qlitch or two in it")
+    print('Hello world, with a qlitch or two in it')
